@@ -23,12 +23,13 @@ This project serves as a **premium showcase** for developers exploring advanced 
   ![Glassmorphism Music Player](screenshots/banner.png)
   
   *Experience music with stunning visual design*
-    
-</div>
-<video controls width="600">
-  <source src="https://github.com/user-attachments/assets/2d4c76de-c485-4e8e-a71e-044a59e81e6f" type="video/mp4">
+  <video controls width="600">
+  <source src="https://github.com/user-attachments/assets/2d4c76de-c485-4e8e-a71e-044a59e81e6f" >
   Your browser does not support the video tag.
 </video>
+    
+</div>
+
 
 
 ---
