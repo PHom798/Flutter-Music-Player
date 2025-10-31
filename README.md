@@ -50,10 +50,10 @@ This project serves as a **premium showcase** for developers exploring advanced 
 <div align="left">
   <table>
     <tr>
-      <td><img src="screenshots/image1.jpg" alt="Neuromorphic Clock Example 1" width="250"/></td>
+      <td><img src="screenshots/image2.jpg" alt="Neuromorphic Clock Example 1" width="250"/></td>
       <td><img src="screenshots/image4.jpg" alt="Neuromorphic Clock Example 2" width="250"/></td>
       <td><img src="screenshots/image3.jpg" alt="Neuromorphic Clock Example 3" width="250"/></td>
-      <td><img src="screenshots/image2.jpg" alt="Neuromorphic Clock Example 3" width="250"/></td>
+      <td><img src="screenshots/image1.jpg" alt="Neuromorphic Clock Example 3" width="250"/></td>
     </tr>
   </table>
 </div>
