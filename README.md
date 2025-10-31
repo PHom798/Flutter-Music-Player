@@ -23,7 +23,7 @@ This project serves as a **premium showcase** for developers exploring advanced 
   ![Glassmorphism Music Player](screenshots/banner.png)
   
   *Experience music with stunning visual design*
-  <video src="https://github.com/user-attachments/assets/2d4c76de-c485-4e8e-a71e-044a59e81e6f" ></video> >
+  <video src="https://github.com/user-attachments/assets/2d4c76de-c485-4e8e-a71e-044a59e81e6f" controls width="100%" ></video> >
 
     
 </div>
