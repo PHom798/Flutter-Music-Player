@@ -20,7 +20,6 @@ This project serves as a **premium showcase** for developers exploring advanced 
 
 <div align="center">
   
-  ![Glassmorphism Music Player](screenshots/banner.png)
   
   *Experience music with stunning visual design*
   <video src="https://github.com/user-attachments/assets/2d4c76de-c485-4e8e-a71e-044a59e81e6f" controls width="100%" ></video> >
@@ -51,26 +50,10 @@ This project serves as a **premium showcase** for developers exploring advanced 
 <div align="left">
   <table>
     <tr>
-      <td align="center">
-        <img src="screenshots/player_main.png" alt="Main Player" width="220"/>
-        <br/>
-        <b>Main Player</b>
-      </td>
-      <td align="center">
-        <img src="screenshots/player_playing.png" alt="Playing State" width="220"/>
-        <br/>
-        <b>Playing State</b>
-      </td>
-      <td align="center">
-        <img src="screenshots/player_controls.png" alt="Controls" width="220"/>
-        <br/>
-        <b>Player Controls</b>
-      </td>
-      <td align="center">
-        <img src="screenshots/player_details.png" alt="Song Details" width="220"/>
-        <br/>
-        <b>Song Details</b>
-      </td>
+      <td><img src="screenshots/image1.jpg" alt="Neuromorphic Clock Example 1" width="250"/></td>
+      <td><img src="screenshots/image4.jpg" alt="Neuromorphic Clock Example 2" width="250"/></td>
+      <td><img src="screenshots/image3.jpg" alt="Neuromorphic Clock Example 3" width="250"/></td>
+      <td><img src="screenshots/image2.jpg" alt="Neuromorphic Clock Example 3" width="250"/></td>
     </tr>
   </table>
 </div>
@@ -79,22 +62,90 @@ This project serves as a **premium showcase** for developers exploring advanced 
 
 ## 🎥 Demo Video
 
-Watch the **Glassmorphism Music Player** in action:
+Watch the **Neuromorphism Digital Clock** in action on **X (formerly Twitter):**
+👉 [Watch the Demo Here](https://x.com/KishanP07684084/status/1949116612566552703)
 
-👉 **[Watch Full Demo on YouTube](#)**  
-🐦 **[See Quick Preview on X (Twitter)](#)**
+---
+
+## 🏗️ Tech Stack
+
+| Technology                          | Description                                          |
+| ----------------------------------- | ---------------------------------------------------- |
+| **Flutter**                         | Cross-platform framework for building beautiful apps |
+| **Dart**                            | Core programming language powering Flutter apps      |
+| **CustomPainter & Animation**       | Used for rendering and dynamic effects               |
+| **Material Design + Neuromorphism** | Blends modern and soft 3D design principles          |
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/<your-username>/Neuromorphism-Digital-Clock.git
+cd Neuromorphism-Digital-Clock
+```
+
+### 2️⃣ Install Dependencies
+
+```bash
+flutter pub get
+```
+
+### 3️⃣ Run the App
+
+```bash
+flutter run
+```
 
 ---
 
 ## 💡 Learning Outcomes
 
-By exploring this project, you'll master:
+By working with this project, you'll gain insights into:
 
 * 🎨 **Advanced UI Design** — Implementing glassmorphism and modern aesthetics
 * 🎵 **Audio Integration** — Working with Flutter audio packages
 * ✨ **Custom Animations** — Creating smooth, professional animations
 * 🎯 **Best Practices** — Clean architecture and code organization
 * 🔊 **Audio Service** — Background audio playback implementation
+
+
+---
+
+## 🤝 Contributing
+
+Contributions are encouraged! If you’d like to enhance the design or functionality:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -m 'Add a new feature'`)
+4. Push to the branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
+
+---
+🧠 Flutter Development Environment Setup
+
+This project is built using Flutter. Below are the essential details and configuration requirements for replicating the development environment.
+
+| Component              | Details                                      |
+| ---------------------- | -------------------------------------------- |
+| **Flutter Version**    | 3.27.1 (Stable Channel)                      |
+| **Framework Revision** | 17025dd882                                   |
+| **Engine Revision**    | cb4b5fff73                                   |
+| **Dart Version**       | 3.6.0                                        |
+| **DevTools Version**   | 2.40.2                                       |
+| **Operating System**   | Windows 10 (Version 10.0.26200.6725, 64-bit) |
+| **Locale**             | en-US                                        |
+
+
+💻 Android Studio
+
+* Version: 2023.3
+* Java Runtime: OpenJDK 17 (17.0.10+0--11572160)
 
 ---
 
