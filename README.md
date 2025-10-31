@@ -22,7 +22,7 @@ This project serves as a **premium showcase** for developers exploring advanced 
   
   
   *Experience music with stunning visual design*
-  <video src="https://github.com/user-attachments/assets/2d4c76de-c485-4e8e-a71e-044a59e81e6f" controls width="100%" ></video> >
+  <video src="https://github.com/user-attachments/assets/2d4c76de-c485-4e8e-a71e-044a59e81e6f" controls width="100%" ></video>
 
     
 </div>
@@ -64,7 +64,7 @@ This project serves as a **premium showcase** for developers exploring advanced 
 
 Watch the **Music Player** in action:
 <div align="center">
-<video src="https://github.com/user-attachments/assets/df9e483d-3ea9-4180-b95c-407f1783f1f7" controls width="100%" ></video> >
+<video src="https://github.com/user-attachments/assets/df9e483d-3ea9-4180-b95c-407f1783f1f7" controls width="100%" ></video> 
 </div>
 
 
