@@ -62,8 +62,12 @@ This project serves as a **premium showcase** for developers exploring advanced 
 
 ## 🎥 Demo Video
 
-Watch the **Neuromorphism Digital Clock** in action on **X (formerly Twitter):**
-👉 [Watch the Demo Here](https://x.com/KishanP07684084/status/1949116612566552703)
+Watch the **Music Player** in action:
+<div align="center">
+<video src="https://github.com/user-attachments/assets/df9e483d-3ea9-4180-b95c-407f1783f1f7" controls width="100%" ></video> >
+</div>
+
+
 
 ---
 
