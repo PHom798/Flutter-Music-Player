@@ -78,7 +78,6 @@ Watch the **Music Player** in action:
 | **Flutter**                         | Cross-platform framework for building beautiful apps |
 | **Dart**                            | Core programming language powering Flutter apps      |
 | **CustomPainter & Animation**       | Used for rendering and dynamic effects               |
-| **Material Design + Neuromorphism** | Blends modern and soft 3D design principles          |
 
 ---
 
